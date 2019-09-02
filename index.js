@@ -1,1 +1,1 @@
-module.exports = require("cssta/babel-plugin.js");
+module.exports = require("cssta/babel-plugin");
