@@ -1,9 +1,9 @@
 {
   "name": "babel-plugin-cssta",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "cssta": "0.9.0"
+    "cssta": "0.10.0"
   }
 }
